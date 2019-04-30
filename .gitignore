@@ -1,3 +1,5 @@
 doc/
 report/
 venv/
+__pycache__/
+.vscode/
